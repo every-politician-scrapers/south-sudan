@@ -54,11 +54,11 @@ Minister of Commerce,Joseph Bangasi Bakosoro,Q112686060,2015,2015,,,,,
 Minister of Commerce,Beatrice Wani-Noah,Q90955928,2015,2016,female,1959-07-28,,Beatrice Wani-Noah (cropped).jpg,Beatrice Wani-Noah
 Minister of Commerce,Akec Khoc Aciew Khoc,Q112686062,2015-02-23,2015-02-23,,,,,
 Minister of Commerce,Barnaba Marial Benjamin,Q4861322,2015-02-23,2015-02-27,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
-Minister of Commerce,Paul Mayom Akec,Q112525862,2016,2016,,,,,
 Minister of Commerce,Martin Elia Lomuro,Q112685857,2016,2016,male,,,,
 Minister of Commerce,Moses Hassen Tiel,Q112686063,2016,2016,,,,,
 Minister of Commerce,Nhial Deng Nhial,Q4893553,2016,2017,male,1952-01-01,,Nhial Deng Nhial (cropped).jpg,Nhial Deng Nhial
 Minister of Commerce,Deng Alor Kuol,Q5256910,2016,2016,male,,,Deng Alor Kuol - 2018 (44868626572) (cropped).jpg,Deng Alor Kuol
+Minister of Commerce,Paul Mayom Akech,Q7152291,2016,2016,male,,,,Paul Mayom Akech
 Minister of Commerce,Awut Deng Acuil,Q12748065,2017,,female,1962,,Awut Deng Acuil.png,Awut Deng Acuil
 "Minister of Culture, Youth and Sports",Cirino Hiteng Ofuho,Q56063130,2011-08-26,2013-07-23,male,,,,Cirino Hiteng Ofuho
 "Minister of Culture, Youth and Sports",Nadia Arop Dudi,Q112685866,2013-08-04,2020-03,,,,,
@@ -82,8 +82,8 @@ Minister of Finance,Aggrey Tisa Sabuni,Q112686446,2013-10,2015-01,,,,,
 Minister of Finance,David Deng Athorbie,Q5232921,2015-01,2016-07,male,,,,David Deng Athorbei
 Minister of Finance,Stephen Dhieu Dau,Q2344633,2016-07,2018-03,male,,,,Stephen Dhieu Dau
 Minister of Finance,Salvatore Garang,Q112686447,2018-03,2020-09,,,,,
-Minister of Finance,Athian Ding Athian,Q112686448,2020-09,2021-11,,,,,
-Minister of Finance,Agak Achuil Lual,Q112686449,2021-11,,male,,,,
+Minister of Finance,Athian Ding Athian,Q112686448,2020-09,2021-11-12,,,,,
+Minister of Finance,Agak Achuil Lual,Q112686449,2021-11-12,,male,,,,
 Minister of Foreign Affairs,Nhial Deng Nhial,Q4893553,2011,2013,male,1952-01-01,,Nhial Deng Nhial (cropped).jpg,Nhial Deng Nhial
 Minister of Foreign Affairs,Deng Alor Kuol,Q5256910,2011,2011,male,,,Deng Alor Kuol - 2018 (44868626572) (cropped).jpg,Deng Alor Kuol
 Minister of Foreign Affairs,Charles Manyang d'Awol,Q112686418,2013,2013,,,,,
@@ -143,24 +143,26 @@ Minister of Higher Education,Denay Jock Chagor,Q97413828,2019-03-12,2020-07-15,m
 Minister of Higher Education,Peter Adwok Nyaba,Q11995405,2020,2020,male,,,,
 Minister of Higher Education,Gabriel Changson Chang,Q5515569,2020,,male,,,,Gabriel Changson Chang
 Minister of Housing,Jema Nunu Kumba,Q112686605,2011-07,,female,,,,
-Minister of Humanitarian Affairs,Peter Mayen Majongdit,Q112686617,2020,,,,,,
+Minister of Humanitarian Affairs,Peter Mayen Majongdit,Q112686617,2020,,male,,,,
 Minister of Information and Broadcasting,Michael Makue Loweth,Q6832462,2020-03-13,,male,,,,Michael Makue Loweth
-Minister of Internal Affairs,Aleu Ayieny Aleu,Q112525561,2013-07,,,,,,
-Minister of Irrigation and Water Resources,Paul Mayom Akec,Q112525862,2011-07,,,,,,
+Minister of Internal Affairs,Aleu Ayieny Aleu,Q112525561,2013-07,,male,,,,
+Minister of Internal Affairs,Paul Mayom Akech,Q7152291,2020-03-12,2021-11-12,male,,,,Paul Mayom Akech
+Minister of Internal Affairs,Mahmoud Solomon,Q112688773,2021-11-12,,male,,,,
+Minister of Irrigation and Water Resources,Paul Mayom Akech,Q7152291,2011-07,2013,male,,,,Paul Mayom Akech
 Minister of Irrigation and Water Resources,Manawa Peter Gatkuoth,Q112686777,2022-03,2022-06-19,male,,2022-06-19,,
 Minister of Justice,John Luk Jok,Q6245500,2011,2013,male,1951,2020-06-03,,John Luk Jok
 Minister of Justice,Paulino Wanawilla,Q112686730,2013,2020,,,,,
 Minister of Justice,Ruben Madol Arol Kachuol,Q111595868,2020,,male,1958-10-22,,Justice Ruben Madol Arol.jpg,Ruben Madol Arol Kachuol
-Minister of National Security,Obuto Mamur Mete,Q112686679,2020-03-12,,,,,,
+Minister of National Security,Obuto Mamur Mete,Q112686679,2020-03-12,,male,,,,
 Minister of Parliamentary Affairs,Michael Makue Loweth,Q6832462,2011-07,,male,,,,Michael Makue Loweth
 Minister of Peace,Pagan Amum,Q2046108,2011-07-23,2015,male,1957-12-11,,"Pa'gan Amum, Chief Negotiator of the Republic of South Sudan.jpg",Pagan Amum
 Minister of Petroleum and Mining,Stephen Dhieu Dau,Q2344633,2011-07,2016-04,male,,,,Stephen Dhieu Dau
 Minister of Petroleum and Mining,Ezekiel Lul Gatkuoth,Q51959606,2016-08,2019-06,male,1969,,,Ezekiel Lol Gatkuoth
 Minister of Petroleum and Mining,Awow Daniel Chuang,Q112686279,2019-06,2020-03,,,,,
-Minister of Petroleum and Mining,Puot Kang Chol,Q112686280,2020-03,,,,,,
+Minister of Petroleum and Mining,Puot Kang Chol,Q112686280,2020-03,,male,,,,
 Minister of Presidential Affairs,Mayiik Ayii Deng,Q48975135,2016-04-29,2020-06,male,1971-12-20,,Mayiik Ayii Deng.jpg,Mayiik Ayii Deng
 Minister of Presidential Affairs,Barnaba Marial Benjamin,Q4861322,2021-05,,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
-Minister of Roads and Bridges,Gier Chuang Aluong,Q112525634,2018,,,,,,
+Minister of Roads and Bridges,Gier Chuang Aluong,Q112525634,2018,,male,,,,
 Minister of Transport,Agnes Poni Lokudu,Q112686205,2011-07-09,2013,,,,,
 Minister of Transport,Gabriel Changson Chang,Q5515569,2013,2014,male,,,,Gabriel Changson Chang
 Minister of Transport,Jemma Nunu Kumba,Q6177210,2013,2013,female,1966,,,Jemma Nunu Kumba
@@ -210,7 +212,7 @@ Governor of Tonj State,Akec Tong Aleu,Q22276732,2015-12-24,,male,,,,Akec Tong Al
 Governor of Unity,Joseph Monytuil,Q22278446,2020-06-30,,male,,,,Joseph Monytuil
 Governor of Upper Nile,Budhok Ayang Kur,Q112684906,2021-01-29,,male,,,,
 Governor of Warrap,Bona Panek,Q22277112,2020,2021-01-28,male,,,,Bona Panek
-Governor of Warrap,Aleu Ayieny Aleu,Q112525561,2021-01-28,,,,,,
+Governor of Warrap,Aleu Ayieny Aleu,Q112525561,2021-01-28,,male,,,,
 Governor of Western Bahr el Ghazal,Sarah Cleto Hassan,Q105223028,2020-06-30,,female,,,,Sarah Cleto Hassan
 Governor of Western Equatoria,Patrick Zamoi,Q112684547,2005,2005,male,,,,
 Governor of Western Equatoria,Samuel Abu-John Kabbashi,Q112684555,2005,2008,male,,,,
