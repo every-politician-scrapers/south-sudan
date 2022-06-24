@@ -1,5 +1,8 @@
 id,name,relationship,relative,relativename
+Q167444,John Garang,child,Q61993413,Akuol de Mabior
+Q167444,John Garang,spouse,Q3379134,Rebecca Nyandeng De Mabior
 Q3379134,Rebecca Nyandeng De Mabior,child,Q61993413,Akuol de Mabior
 Q3379134,Rebecca Nyandeng De Mabior,spouse,Q167444,John Garang
 Q444994,Riek Machar,spouse,Q4762750,Angelina Teny
+Q4762750,Angelina Teny,spouse,Q444994,Riek Machar
 Q57315,Salva Kiir Mayardit,spouse,Q64895993,Mary Ayen Mayardit
