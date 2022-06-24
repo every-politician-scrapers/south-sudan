@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "South Sudan",
+      "id": "Q958"
+    },
+    "cabinet": {
+      "id": "Q112689988",
+      "start": "2013-07-31",
+      "end": "2016-04-28",
+      "parent": "Q4376010"
+    },
+    "reference": {
+        "P854": "https://ssnanews.com/index.php/2013/08/01/president-kiir-appoints-new-cabinet-vp-post-is-yet-to-be-determined/",
+        "P577": "2013-08-01",
+        "P1476": {
+            "text": "President Kiir appoints new cabinet",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in South Sudan"
+    }
+}
