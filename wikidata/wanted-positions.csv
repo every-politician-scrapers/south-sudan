@@ -7,6 +7,7 @@ Q112685940,Minister of Cabinet Affairs
 Q112686036,Minister of Commerce
 Q112686075,"Minister of Culture, Youth and Sports"
 Q112686152,Minister of Defence
+Q112707125,Minister of East African Affairs
 Q112686383,Minister of Education
 Q112686468,Minister of Electricity and Dams
 Q112686565,Minister of Environment
@@ -20,6 +21,7 @@ Q112686600,Minister of Housing
 Q112686609,Minister of Humanitarian Affairs
 Q112686797,Minister of Information and Broadcasting
 Q112686903,Minister of Internal Affairs
+Q112707129,Minister of Investment
 Q112686748,Minister of Irrigation and Water Resources
 Q112686712,Minister of Justice
 Q112686684,Minister of Labour
@@ -28,10 +30,12 @@ Q112686629,Minister of Parliamentary Affairs
 Q112686299,Minister of Peace
 Q112686266,Minister of Petroleum and Mining
 Q112686639,Minister of Presidential Affairs
+Q112707169,Minister of Public Service
 Q112686920,Minister of Roads and Bridges
 Q112686191,Minister of Transport
 Q112686171,Minister of Wildlife Conservation and Tourism
 Q112700860,Deputy Minister of Agriculture
+Q112707286,Deputy Minister of Cabinet Affairs
 Q112703623,Deputy Minister of Defence
 Q112700862,Deputy Minister of Education
 Q112703629,Deputy Minister of Environment
@@ -44,5 +48,6 @@ Q112703866,Deputy Minister of Irrigation and Water Resources
 Q112700831,Deputy Minister of Justice
 Q112703791,Deputy Minister of Labour
 Q112700870,Deputy Minister of Petroleum and Mining
+Q112707306,Deputy Minister of Public Service
 Q112700867,Deputy Minister of Transport
 Q112316485,Speaker of the National Legislature
