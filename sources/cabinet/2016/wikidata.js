@@ -8,7 +8,7 @@ module.exports = function () {
   let lang = meta.lang || 'en'
 
   return `SELECT DISTINCT ?item ?itemLabel ?position ?positionLabel
-                 ?startDate ?endDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+                 ?startDate ?endDate ?source (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
