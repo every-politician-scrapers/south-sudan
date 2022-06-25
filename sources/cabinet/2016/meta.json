@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "South Sudan",
+      "id": "Q958"
+    },
+    "cabinet": {
+      "id": "Q112690118",
+      "start": "2016-04-29",
+      "end": "2020-02-22",
+      "parent": "Q4376010"
+    },
+    "reference": {
+        "P854": "https://www.independent.co.ug/garang-minister-as-kiir-names-new-south-sudan-cabinet/",
+        "P577": "2016-04-29",
+        "P1476": {
+            "text": "Garang is minister as Kiir names new South Sudan cabinet",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in South Sudan"
+    }
+}
