@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "South Sudan",
+      "id": "Q958"
+    },
+    "cabinet": {
+      "id":     "Q112710067",
+      "start":  "2011-07-10",
+      "end":    "2013-07-23",
+      "parent": "Q4376010"
+    },
+    "reference": {
+        "P854": "http://sosanews.com/2011/07/13/the-newly-appointed-ministers-or-caretakers/",
+        "P577": "2011-07-13",
+        "P1065": "https://web.archive.org/web/20111108235215/http://sosanews.com/2011/07/13/the-newly-appointed-ministers-or-caretakers/",
+        "P1476": {
+            "text": "S.Sudan:The Newly Appointed Ministers Or Caretakers",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in South Sudan"
+    }
+}
