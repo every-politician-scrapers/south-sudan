@@ -70,7 +70,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
-        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.reference.P854}') .
+        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.reference.P4656}') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
         OPTIONAL { ?ref pr:P1932 ?sourcePosition }
       }

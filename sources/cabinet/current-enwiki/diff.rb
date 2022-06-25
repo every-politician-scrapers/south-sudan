@@ -7,6 +7,14 @@ class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     super + %i[psid]
   end
+
+  def wikidata
+    super.delete_if { |row| row[:positionlabel].include? 'Deputy' }
+  end
+
+  def external
+    super.delete_if { |row| row[:positionlabel] == 'President of South Sudan' }
+  end
 end
 
 diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
