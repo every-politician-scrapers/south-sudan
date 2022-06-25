@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+      "name": "South Sudan",
+      "id": "Q958"
+    },
+    "cabinet": {
+      "id": "Q112316373",
+      "start": "2020-03-12",
+      "parent": "Q4376010"
+    },
+    "reference": {
+        "P854": "https://radiotamazuj.org/en/news/article/south-sudan-s-kiir-names-cabinet",
+        "P577": "2020-03-12",
+        "P1476": {
+            "text": "South Sudan's Kiir names cabinet",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in South Sudan"
+    }
+}
