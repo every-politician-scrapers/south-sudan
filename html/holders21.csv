@@ -1,7 +1,6 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Salva Kiir Mayardit,Q57315,2011-07-09,,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
 Vice President,Salva Kiir Mayardit,Q57315,2005-07-09,2005-07-30,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
-Vice President,Riek Machar,Q444994,2005-08-11,2011-07-09,male,1953,,Riek Machar VOA photo.jpg,Riek Machar
 Vice President,Riek Machar,Q444994,2011-07-09,2013-07-23,male,1953,,Riek Machar VOA photo.jpg,Riek Machar
 Vice President,James Wani Igga,Q6145116,2013-08-25,2020-02-21,male,1949,,James Wani Igga.JPG,James Wani Igga
 Vice President,Riek Machar,Q444994,2016-04-26,2016-07-26,male,1953,,Riek Machar VOA photo.jpg,Riek Machar
@@ -168,7 +167,7 @@ Minister of Higher Education,Deny Chigor,Q112686335,2019,2019,,,,,
 Minister of Higher Education,Denay Jock Chagor,Q97413828,2019-03-12,2020-07-15,male,1975,,,Denay Jock Chagor
 Minister of Higher Education,Peter Adwok Nyaba,Q11995405,2020,2020,male,,,,
 Minister of Higher Education,Gabriel Changson Chang,Q5515569,2020-07-15,,male,,,,Gabriel Changson Chang
-Minister of Housing,Jema Nunu Kumba,Q112686605,2011-07,2013-07-23,female,,,,
+Minister of Housing,Jemma Nunu Kumba,Q6177210,2011-07,2013-07-23,female,1966,,,Jemma Nunu Kumba
 Minister of Housing,Jemma Nunu Kumba,Q6177210,2013-07-31,2016-04-28,female,1966,,,Jemma Nunu Kumba
 Minister of Housing,Mary Alphonse Nadio Lodira,Q112703822,2016-04-29,2020-03,,,,,
 Minister of Housing,Michael Chiangjiek,Q112707244,2020-02-22,,,,,,
