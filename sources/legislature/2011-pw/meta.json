@@ -1,0 +1,21 @@
+{
+    "position": "Q21328629",
+    "term": {
+        "id":       "Q112524063",
+        "start":    "2011-07-09",
+        "end":      "2016-08-04",
+        "election": ""
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://paanluelwel.com/2011/08/03/kiir-transforms-south-sudan-parliament-reconstitutes-its-membership/",
+        "P577": "2011-08-03",
+        "P1476": {
+            "text": "Kiir transforms South Sudan parliament, reconstitutes its membership",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "South Sudanese politician"
+    }
+}
