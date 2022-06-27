@@ -1,0 +1,21 @@
+{
+    "position": "Q21328629",
+    "term": {
+        "id":       "Q112739887",
+        "start":    "2016-08-04",
+        "end":      "2021-05-08",
+        "election": ""
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://sudantribune.com/article55996/",
+        "P577": "2016-01-07",
+        "P1476": {
+            "text": "Kiir appoints new SPLM-IO members to South Sudan parliament",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "South Sudanese politician"
+    }
+}
