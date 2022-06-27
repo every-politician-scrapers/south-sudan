@@ -1,0 +1,21 @@
+{
+    "position": "Q21328629",
+    "term": {
+        "id":       "Q112739887",
+        "start":    "2016-08-04",
+        "end":      "2021-05-08",
+        "election": ""
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://www.facebook.com/talkofjuba/photos/a.287916881317901/935832443193005/",
+        "P577": "2016-08-04",
+        "P1476": {
+            "text": "List of new IO MPs to Transitional National Legislative Assembly (TNLA)",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "South Sudanese politician"
+    }
+}
