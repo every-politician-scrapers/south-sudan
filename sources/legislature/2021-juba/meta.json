@@ -1,0 +1,20 @@
+{
+    "position": "Q21328629",
+    "term": {
+        "id":       "Q112751515",
+        "start":    "2021-05-10",
+        "election": ""
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://www.talkofjuba.com/2021/05/19/members-of-the-parliament-of-south-sudan/",
+        "P577": "2021-05-19",
+        "P1476": {
+            "text": "Members of the Parliament of South Sudan",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "South Sudanese politician"
+    }
+}
