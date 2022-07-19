@@ -1,0 +1,124 @@
+{
+  "title": "Joseph Bakosoro",
+  "pageID": 32635058,
+  "categories": [
+    "South Sudanese politicians",
+    "Living people",
+    "South Sudanese state governors",
+    "Year of birth missing (living people)",
+    "People from Western Equatoria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joseph Bakosoro is a South Sudanese politician.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joseph Bakosoro"
+                ]
+              }
+            },
+            {
+              "text": "He has served as governor of Western Equatoria after winning an election over Nunu Kumba from 26 May 2010 to 22 December 2015 and was arrested by security officials of South Sudan and later released on April 27, 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Equatoria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nunu Kumba"
+                }
+              ]
+            },
+            {
+              "text": "He was involved in a near-fatal car crash near Juba in February 2010.",
+              "links": [
+                {
+                  "text": "Juba",
+                  "type": "internal",
+                  "page": "Juba, Sudan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Currently he is the Minister of Public Service of the Republic of South Sudan."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-07-16",
+          "title": "'I will not step down as minister of public service', says Bakasoro",
+          "url": "https://www.eyeradio.org/i-will-not-step-down-as-minister-of-public-service-says-bakasoro/",
+          "access-date": "2022-04-13",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sudantribune.com/Col-Joseph-Bakosoro-involved-in,34004",
+          "title": "Col Joseph Bakosoro involved in car crash in Juba",
+          "publisher": "Sudan Tribune",
+          "date": "3 February 2010",
+          "accessdate": "4 August 2011",
+          "last": "Ruati",
+          "first": "Richard",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-07-16",
+          "title": "'I will not step down as minister of public service', says Bakasoro",
+          "url": "https://www.eyeradio.org/i-will-not-step-down-as-minister-of-public-service-says-bakasoro/",
+          "access-date": "2022-04-13",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "south sudanese state governors"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

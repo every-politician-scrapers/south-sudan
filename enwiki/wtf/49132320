@@ -1,0 +1,114 @@
+{
+  "title": "Rezik Zechariah Hassan",
+  "pageID": 49132320,
+  "categories": [
+    "Living people",
+    "South Sudanese politicians",
+    "Year of birth missing (living people)",
+    "South Sudanese Muslims"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rezik Zechariah Hassan has been the Governor of Lol State, South Sudan since 24 December 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lol State"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rezik Zechariah Hassan"
+                ]
+              }
+            },
+            {
+              "text": "He is the first governor of the state, which was created by President Salva Kiir on 2 October 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salva Kiir"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was previously Governor of Western Bahr el Ghazal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Bahr el Ghazal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "September 2014",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "date": "24 December 2015",
+          "title": "South Sudan's President appoints 28 Governors, defies peace agreement",
+          "publisher": "South Sudan News Agency",
+          "url": "http://www.southsudannewsagency.com/news/breaking-news/south-sudans-president-appoints-28-governors-defies-peace-agreement",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160202025755/http://www.southsudannewsagency.com/news/breaking-news/south-sudans-president-appoints-28-governors-defies-peace-agreement",
+          "archivedate": "2 February 2016",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://radiotamazuj.org/en/article/kiir-and-makuei-want-28-states-s-sudan",
+          "title": "Kiir and Makuei want 28 states in South Sudan",
+          "publisher": "Radio Tamazuj",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20151208183221/https://radiotamazuj.org/en/article/kiir-and-makuei-want-28-states-s-sudan",
+          "archivedate": "8 December 2015",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Odongi B'Kintu",
+          "date": "21 December 2012",
+          "title": "Should WBG Governor Rizik Zachariah be fired after the Wau killings?",
+          "publisher": "South Sudan Nation",
+          "url": "http://www.southsudannation.com/should-wbg-governor-rizik-zachariah-be-fired-after-the-wau-killings/",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

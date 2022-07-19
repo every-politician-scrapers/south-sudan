@@ -1,0 +1,1787 @@
+{
+  "title": "Salva Kiir Mayardit",
+  "pageID": 2363203,
+  "categories": [
+    "1951 births",
+    "Dinka people",
+    "Living people",
+    "People from Bahr el Ghazal",
+    "People of the South Sudanese Civil War",
+    "Presidents of South Sudan",
+    "Sudanese rebels",
+    "SPLM/SPLA Political-Military High Command",
+    "South Sudanese Roman Catholics",
+    "Sudan People's Liberation Movement politicians",
+    "Vice presidents of Sudan",
+    "South Sudanese men",
+    "South Sudanese politicians",
+    "21st-century South Sudanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salva Kiir Mayardit (born 13 September 1951), also known as Salva Kiir, is a South Sudanese politician who has been President of South Sudan since its independence on July 9th 2011.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                },
+                {
+                  "text": "President of South Sudan",
+                  "type": "internal",
+                  "page": "List of Presidents of South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Salva Kiir Mayardit",
+                  "Salva Kiir"
+                ]
+              }
+            },
+            {
+              "text": "Prior to independence, he was President of the Government of Southern Sudan, as well as First Vice President of Sudan, from 2005 to 2011.",
+              "links": [
+                {
+                  "text": "First Vice President of Sudan",
+                  "type": "internal",
+                  "page": "Vice President of Sudan"
+                }
+              ]
+            },
+            {
+              "text": "He was named Commander-in-Chief of the Sudan People's Liberation Army (SPLA) in 2005, following the death of John Garang.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sudan People's Liberation Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Garang"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "redirect",
+          "redirect": "Kiir",
+          "links": [
+            {
+              "page": "Bahr al-Arab",
+              "desc": "the river"
+            }
+          ]
+        },
+        {
+          "description": "President of South Sudan since 2011",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Kiir"
+          ],
+          "template": "dinka name"
+        },
+        {
+          "year": "1951",
+          "month": "09",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Salva Kiir Mayardit"
+          },
+          "image": {
+            "text": "File:President Barack Obama and First Lady Michelle Obama greet His Excellency Salva Kiir Mayardit, President of the Republic of South Sudan (cropped).jpg"
+          },
+          "office": {
+            "text": "1st President of South Sudan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of South Sudan"
+              }
+            ]
+          },
+          "vicepresident": {
+            "text": "Riek Machar Teny James Wani Igga Taban Deng Gai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riek Machar Teny"
+              },
+              {
+                "type": "internal",
+                "page": "James Wani Igga"
+              },
+              {
+                "type": "internal",
+                "page": "Taban Deng Gai"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 July 2011"
+          },
+          "predecessor": {
+            "text": "Position established"
+          },
+          "office1": {
+            "text": "President of Southern Sudan",
+            "links": [
+              {
+                "text": "Southern Sudan",
+                "type": "internal",
+                "page": "Southern Sudan Autonomous Region (2005–11)"
+              }
+            ]
+          },
+          "vicepresident1": {
+            "text": "Riek Machar Teny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riek Machar Teny"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 July 2005"
+          },
+          "term_end1": {
+            "text": "9 July 2011\nActing: 30 July 2005 – 11 August 2005"
+          },
+          "predecessor1": {
+            "text": "John Garang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Garang"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Position abolished"
+          },
+          "office2": {
+            "text": "First Vice President of Sudan",
+            "links": [
+              {
+                "text": "First Vice President of Sudan",
+                "type": "internal",
+                "page": "Vice President of Sudan"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Omar al-Bashir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Omar al-Bashir"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 August 2005"
+          },
+          "term_end2": {
+            "text": "9 July 2011"
+          },
+          "predecessor2": {
+            "text": "John Garang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Garang"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ali Osman Taha",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Osman Taha"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Vice President of Southern Sudan"
+          },
+          "president3": {
+            "text": "John Garang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Garang"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "9 July 2005"
+          },
+          "term_end3": {
+            "text": "11 August 2005"
+          },
+          "predecessor3": {
+            "text": "Position established"
+          },
+          "successor3": {
+            "text": "Riek Machar Teny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riek Machar Teny"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 13, 1951"
+          },
+          "birth_place": {
+            "text": "Akon, Anglo-Egyptian Sudan (now South Sudan)",
+            "links": [
+              {
+                "text": "Akon",
+                "type": "internal",
+                "page": "Gogrial"
+              },
+              {
+                "type": "internal",
+                "page": "Anglo-Egyptian Sudan"
+              },
+              {
+                "type": "internal",
+                "page": "South Sudan"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mary Ayen Mayardit Aluel William Nyuon Bany"
+          },
+          "party": {
+            "text": "Sudan People's Liberation Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sudan People's Liberation Movement"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Republic of South Sudan South Sudan People's Defence Force Anyanya Battalion",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of South Sudan"
+              },
+              {
+                "text": "South Sudan People's Defence Force",
+                "type": "internal",
+                "page": "Sudan People's Liberation Movement"
+              },
+              {
+                "text": "Anyanya Battalion",
+                "type": "internal",
+                "page": "Anyanya"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Commander-in-Chief of the South Sudan People's Defence Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Sudan People's Defence Forces"
+              }
+            ]
+          },
+          "battles": {
+            "text": "First Sudanese Civil War Second Sudanese Civil War *Operation Thunderbolt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Sudanese Civil War"
+              },
+              {
+                "type": "internal",
+                "page": "Second Sudanese Civil War"
+              },
+              {
+                "text": "Operation Thunderbolt",
+                "type": "internal",
+                "page": "Operation Thunderbolt (1997)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.sde.co.ke/amp/thenairobian/article/2000114864/our-family-life-is-private-kiir-s-in-law-says",
+          "title": "\"Our family life is private\" Kiir's in-law says - Entertainment News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biography of H.E. Salva Kiir Mayardit",
+          "url": "https://www.presidency.gov.ss/president.php",
+          "website": "www.presidency.gov.ss",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiir was born in 1951 into a pastoral Dinka family in the village of Akon in the Awan-Chan Dinka community in Gogrial County, South Sudan, as the eighth of nine children (six boys and three girls) in the family.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dinka"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gogrial"
+                },
+                {
+                  "text": "Sudan",
+                  "type": "internal",
+                  "page": "Anglo-Egyptian Sudan"
+                }
+              ]
+            },
+            {
+              "text": "His father, Kuethpiny Thiik Atem (d."
+            },
+            {
+              "text": "2007), was a cattle herder who belongs to the Payum clan."
+            },
+            {
+              "text": "Atem had three wives, Awiei Rou Wol, Adut Makuei Piol and Awien Akoon Deng, along with 16 children."
+            },
+            {
+              "text": "Kiir's mother, Awiei Rou Wol Tong was a farmer, who belongs to the Payii clan."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://paanluelwel.com/2016/02/14/salva-kiir-mayaardit-the-joshua-of-south-sudan/",
+          "title": "Salva Kiir Mayardit: The Joshua of South Sudan",
+          "author": "Wël, PaanLuel",
+          "date": "24 February 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Sudanese civil wars",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the late 1960s, Kiir joined the Anyanya battalion in the First Sudanese Civil War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anyanya"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Sudanese Civil War"
+                }
+              ]
+            },
+            {
+              "text": "By the time of the 1972 Addis Ababa Agreement, he was a low-ranking officer.",
+              "links": [
+                {
+                  "text": "Addis Ababa Agreement",
+                  "type": "internal",
+                  "page": "Addis Ababa Agreement (1972)"
+                }
+              ]
+            },
+            {
+              "text": "In 1983, when Dr John Garang joined an army mutiny he had been sent to put down, Kiir and other Southern leaders joined the rebel Sudan People's Liberation Movement (SPLM) in the second civil war.",
+              "links": [
+                {
+                  "text": "Dr John Garang",
+                  "type": "internal",
+                  "page": "John Garang"
+                },
+                {
+                  "text": "mutiny",
+                  "type": "internal",
+                  "page": "mutiny"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan People's Liberation Movement"
+                },
+                {
+                  "text": "second civil war",
+                  "type": "internal",
+                  "page": "Second Sudanese Civil War"
+                }
+              ]
+            },
+            {
+              "text": "Dr. Garang De Mabior had advanced military knowledge and experience from both the United States and the Sudan, and Kiir served as his deputy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            {
+              "text": "In 1997, Kiir commanded the SPLA troops that took part in Operation Thunderbolt, a very successful rebel offensive during which most of Western Equatoria was captured by the SPLA.",
+              "links": [
+                {
+                  "text": "Operation Thunderbolt",
+                  "type": "internal",
+                  "page": "Operation Thunderbolt (1997)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Western Equatoria"
+                }
+              ]
+            },
+            {
+              "text": "Kiir eventually rose to head the SPLA, the SPLM's military wing when Dr. John Garang was killed in a helicopter crash."
+            },
+            {
+              "text": "Rumours to remove Kiir from his post as SPLA Chief of Staff in 2004 nearly caused the organization to split."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Salva_Kiir-3,_by_Stein_Ove_Korneliussen.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Salva_Kiir-3%2C_by_Stein_Ove_Korneliussen.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Salva_Kiir-3%2C_by_Stein_Ove_Korneliussen.jpg",
+          "caption": "Salva Kiir Mayardit in military uniform",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "LeRiche",
+            "Arnold",
+            "2013"
+          ],
+          "p": "104",
+          "template": "sfnp"
+        }
+      ],
+      "references": [
+        {
+          "last": "Johnson",
+          "first": "Douglas H.",
+          "author-link": "Douglas H. Johnson",
+          "year": "2003",
+          "title": "The Root Causes of Sudan's Civil Wars",
+          "publisher": "Indiana University Press",
+          "isbn": "0-253-21584-6",
+          "url": "https://books.google.com/books?id=U-PuCbRr4tcC&q=The+Root+Causes+of+Sudan%27s+Civil+Wars",
+          "page": "66",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "http://news.bbc.co.uk/2/hi/africa/4738295.stm",
+          "title": "Profile: Salva Kiir",
+          "work": "BBC News",
+          "date": "2 August 2005",
+          "access-date": "26 January 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "South Sudanese politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the signing of the Comprehensive Peace Agreement formally ending the war in January 2005, Dr. John Garang was sworn in as the Vice President of the Republic of Sudan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Comprehensive Peace Agreement"
+                }
+              ]
+            },
+            {
+              "text": "After the death of Dr. John Garang in a helicopter crash on 30 July 2005, Kiir was chosen to succeed to the post of First Vice President of Sudan and President of Southern Sudan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Sudan"
+                }
+              ]
+            },
+            {
+              "text": "Before independence, Kiir was popular among the military wing of the SPLA/M for his loyalty to the vision of the SPLA/M throughout the liberation struggle and among those who do not trust the successive governments that have come and gone in the Sudan."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Comments by Kiir in October 2009 that the forthcoming independence referendum was a choice between being \"a second class in your own country\" or \"a free person in your independent state\" were expected to further strain political tensions."
+            },
+            {
+              "text": "Reports in January 2010 that Kiir would not contest April elections for Sudanese president, but would focus on re-election as president of Southern Sudan were interpreted to mean that the SPLM priority was independence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiir was re-elected with 93% of the vote in the 2010 South Sudanese election.",
+              "links": [
+                {
+                  "text": "2010 South Sudanese election",
+                  "type": "internal",
+                  "page": "2010 South Sudanese general election"
+                }
+              ]
+            },
+            {
+              "text": "Although the vote on both the national and sub-national level was criticized by democratic activists and international observers, the overwhelming margin of Kiir's re-election was noted by some media as being \"Step One\" in the process of secession."
+            },
+            {
+              "text": "Following his re-election, Omar al-Bashir reappointed Kiir as the First Vice President of Sudan in accordance with the interim constitution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Omar al-Bashir"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.reuters.com/article/idUSTRE59U1FT20091031",
+          "title": "S. Sudan president makes first call for independence",
+          "work": "Reuters",
+          "date": "31 October 2009",
+          "access-date": "26 January 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.bbc.co.uk/2/hi/africa/8468760.stm",
+          "title": "Sudan would accept separation, says President Bashir",
+          "work": "BBC News",
+          "date": "19 January 2010",
+          "access-date": "26 January 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2010/04/27/world/africa/27sudan.html?hp",
+          "work": "The New York Times",
+          "title": "Bashir Wins Election as Sudan Edges Toward Split",
+          "first": "Jeffrey",
+          "last": "Gettleman",
+          "date": "April 26, 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.sudantribune.com/spip.php?article35230",
+          "title": "Salva Kiir and Ali Osman appointed deputies of Sudan's President",
+          "publisher": "Sudan Tribune",
+          "date": "29 May 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Presidency",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "South Sudanese voted overwhelmingly in favour of independence from Sudan in January 2011, with 98.83% of voters reportedly preferring to split from the North.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                }
+              ]
+            },
+            {
+              "text": "On 9 July 2011, South Sudan became an independent state, with Kiir as its first president.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ]
+            },
+            {
+              "text": "Kiir positioned himself as a reformer, using his inaugural address to call for the South Sudanese people \"to forgive, though we shall not forget\" injustices at the hands of the northern Sudanese over the preceding decades and announce a general amnesty for South Sudanese groups that had warred against the SPLM in the past."
+            },
+            {
+              "text": "A few weeks later, he publicly addressed members of the military and police to warn them that rape, torture, and other human rights violations carried out by armed personnel would be considered criminal acts and prosecuted aggressively by the Ministry of Justice.",
+              "links": [
+                {
+                  "text": "rape",
+                  "type": "internal",
+                  "page": "rape"
+                },
+                {
+                  "text": "torture",
+                  "type": "internal",
+                  "page": "torture"
+                },
+                {
+                  "text": "human rights violations",
+                  "type": "internal",
+                  "page": "human rights violation"
+                }
+              ]
+            },
+            {
+              "text": "His presidency was characterized as a period of reconstruction, albeit one marred by with internal and foreign disputes."
+            },
+            {
+              "text": "Among these were the Heglig Crisis, which caused a border war with Sudan, and an internal political crisis in which attempts were made to overthrow him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heglig Crisis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Welcome_to_the_neighbourhood_-_Flickr_-_Al_Jazeera_English.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Welcome_to_the_neighbourhood_-_Flickr_-_Al_Jazeera_English.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Welcome_to_the_neighbourhood_-_Flickr_-_Al_Jazeera_English.jpg",
+          "caption": "Omar al-Bashir (right), President of Sudan, watches a ceremony celebrating the founding of South Sudan with Kiir in 2011.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Human rights in South Sudan"
+          ],
+          "template": "see"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.foxnews.com/world/2011/01/30/pct-southern-sudan-vote-secession/",
+          "agency": "FOX News",
+          "date": "30 January 2011",
+          "access-date": "25 August 2011",
+          "title": "Over 99 Percent in Southern Sudan Vote for Secession",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://allafrica.com/stories/201107090061.html",
+          "date": "9 July 2011",
+          "access-date": "25 August 2011",
+          "title": "South Sudan: Salva Kiir Calls for Forgiveness As South Gains Independence",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.sudantribune.com/Salva-Kiir-takes-oath-grants,39479",
+          "agency": "Sudan Tribune",
+          "date": "9 July 2011",
+          "access-date": "25 August 2011",
+          "title": "Salva Kiir takes oath, grants amnesty to rebels",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.oyetimes.com/news/africa/12875-salva-kiir-warns-armed-south-sudan-forces-over-human-rights-abuse",
+          "title": "Salva Kiir Warns Armed South Sudan Forces Over Human Rights Abuse",
+          "first": "Waakhe Simon",
+          "last": "Wadu",
+          "date": "1 August 2011",
+          "access-date": "18 August 2011",
+          "agency": "Oye! Times",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Domestic policy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 18 June 2013, Kiir issued an order lifting the immunity of two ministers in the national government pending investigations into an alleged corruption case in which they appeared to be implicated."
+            },
+            {
+              "text": "He also issued an order suspending Cabinet Affairs Minister Deng Alor Kuol and Finance Minister Kosti Manibe Ngai from their duties during the entire duration of the probe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deng Alor Kuol"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kosti Manibe Ngai"
+                }
+              ]
+            },
+            {
+              "text": "In July 2013, Kiir sacked his entire cabinet, including his vice president, Riek Machar, ostensibly to reduce the size of government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riek Machar"
+                }
+              ]
+            },
+            {
+              "text": "However, Machar said that it was a step towards dictatorship and that he would challenge Kiir for the presidency.",
+              "links": [
+                {
+                  "text": "dictatorship",
+                  "type": "internal",
+                  "page": "dictatorship"
+                }
+              ]
+            },
+            {
+              "text": "He also dismissed Taban Deng Gai as Governor of Unity State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taban Deng Gai"
+                }
+              ]
+            },
+            {
+              "text": "Kiir told Radio Netherlands Worldwide that homosexuality is not in the \"character\" of Southern Sudanese people.",
+              "links": [
+                {
+                  "text": "homosexuality",
+                  "type": "internal",
+                  "page": "homosexuality"
+                }
+              ]
+            },
+            {
+              "text": "\"It is not even something that anybody can talk about here in southern Sudan in particular. It is not there and if anybody wants to import or to export it to Sudan, it will not get the support and it will always be condemned by everybody,\" he said."
+            },
+            {
+              "text": "He then went on to refer to homosexuality as a \"mental disease\" and a \"bastion of Western immorality\"."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "1) In December 2011, 6,000 Lou Nuer armed child soldiers attacked Murle communities. According to investigations carried out by the UN, 800 people from both ethnic groups were killed between December 2011 and February 2012, while women and children were abducted and property was looted and destroyed. Unbeknownst to large numbers of or the entire child soldier population, Kiir planned and had decided to agree to warlike stipends from the Obama administration beginning in 2012, regardless of an American law prohibiting aid to nations utilizing child soldiers created and passed in 2008.",
+            "links": [
+              {
+                "text": "Lou Nuer",
+                "type": "internal",
+                "page": "Nuer people"
+              },
+              {
+                "text": "child soldiers",
+                "type": "internal",
+                "page": "child soldier"
+              },
+              {
+                "text": "Murle",
+                "type": "internal",
+                "page": "Murle people"
+              },
+              {
+                "text": "women",
+                "type": "internal",
+                "page": "Woman"
+              },
+              {
+                "text": "children",
+                "type": "internal",
+                "page": "child"
+              }
+            ]
+          },
+          {
+            "text": "2) A lack of accountability and justice pertaining to the investigation, arrest and prosecution of the individuals who carried out the violence against civilians of both the Nuer and Murle ethnic groups is widely believed to have contributed massively to, if not categorically, the  mass murders, as well as the continued perpetration of the ethnic violence. Kiir established a figurehead \"Investigation Committee\" with an ostentatious mandate to investigate those responsible for the mass murders and murders, but as of January 2013 no finances had been allocated to the \"Investigation Committee\" or any of its members sworn in to commence the investigation and bring those to justice.",
+            "links": [
+              {
+                "text": "accountability",
+                "type": "internal",
+                "page": "accountability"
+              },
+              {
+                "text": "justice",
+                "type": "internal",
+                "page": "justice"
+              },
+              {
+                "text": "investigation",
+                "type": "internal",
+                "page": "Criminal investigation"
+              },
+              {
+                "text": "arrest",
+                "type": "internal",
+                "page": "arrest"
+              },
+              {
+                "text": "civilians",
+                "type": "internal",
+                "page": "civilian"
+              },
+              {
+                "text": "mass murders",
+                "type": "internal",
+                "page": "mass murder"
+              },
+              {
+                "text": "figurehead",
+                "type": "internal",
+                "page": "figurehead"
+              },
+              {
+                "text": "mandate",
+                "type": "internal",
+                "page": "Mandate (politics)"
+              },
+              {
+                "text": "murders",
+                "type": "internal",
+                "page": "murder"
+              },
+              {
+                "text": "justice",
+                "type": "internal",
+                "page": "justice"
+              }
+            ]
+          },
+          {
+            "text": "3) Throughout the Jonglei disarmament \"Operation Restore Peace\" which began in March 2012 and continued throughout the year, soldiers were ordered to and assumed the responsibility of extrajudicial killings, severe beatings, binding people with rope, and torture to extract \"information\" regarding the whereabouts of weapons.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jonglei"
+              },
+              {
+                "text": "disarmament",
+                "type": "internal",
+                "page": "disarmament"
+              },
+              {
+                "text": "extrajudicial killings",
+                "type": "internal",
+                "page": "extrajudicial killing"
+              },
+              {
+                "text": "beatings",
+                "type": "internal",
+                "page": "battery (crime)"
+              },
+              {
+                "text": "extract \"information\"",
+                "type": "internal",
+                "page": "Forced confession"
+              },
+              {
+                "text": "whereabouts of weapons",
+                "type": "internal",
+                "page": "Misinformation"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.aljazeera.com/video/africa/2013/07/20137287019670555.html",
+          "title": "South Sudan gripped by power struggle - Africa",
+          "publisher": "Al Jazeera English",
+          "access-date": "2014-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://theintercept.com/2016/06/09/hillary-clintons-state-department-gave-south-sudans-military-a-pass-for-its-child-soldiers/",
+          "title": "Hillary Clinton's State Department Gave South Sudan's Military a Pass for Its Child Soldiers",
+          "last": "Turse",
+          "first": "Nick",
+          "date": "June 9, 2016",
+          "website": "The Intercept",
+          "series": "New Nation, Long War",
+          "publisher": "First Look Media",
+          "access-date": "July 15, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.africanactivist.org/2010/08/south-sudan-president-condemns.html",
+          "title": "South Sudan President Condemns Homosexuality",
+          "publisher": "African Activist News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.hrw.org/world-report/2013/country-chapters/south-sudan",
+          "title": "World Report 2013: South Sudan",
+          "date": "2013-01-10",
+          "website": "Human Rights Watch",
+          "series": "World Report 2013",
+          "publisher": "Human Rights Watch",
+          "access-date": "2016-07-16",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Consolidation of power",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After rumors about a planned coup surfaced in Juba in late 2012, Kiir began reorganizing the senior leadership of his government, party and military on an unprecedented scale."
+            },
+            {
+              "text": "In January 2013, he replaced the inspector general of the national police service with a lieutenant from the army, and dismissed six deputy chiefs of staff and 29 major generals in the army."
+            },
+            {
+              "text": "In February 2013 Kiir retired an additional 117 army generals but this was viewed"
+            },
+            {
+              "text": "as troublesome in regards to a power grab by others."
+            },
+            {
+              "text": "Kiir had also suggested that his rivals were trying to revive the rifts that had provoked infighting in the 1990s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murder and torture of journalists",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moi Peter Julius, who was a political reporter for a South Sudanese newspaper The Corporate, was found murdered late on the night of August 19, 2015 in a residential area of Juba after being shot twice from behind.",
+              "links": [
+                {
+                  "text": "reporter",
+                  "type": "internal",
+                  "page": "Journalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juba"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Corporate"
+                ]
+              }
+            },
+            {
+              "text": "His murder was committed three days after Kiir publicly and officially threatened journalists, stating that “freedom of the press does not mean that you work against your country."
+            },
+            {
+              "text": "If anybody does not know that this country will kill people, we will demonstrate on them.” Earlier in 2015, five journalists by the names of Musa Mohamed (the director of the state-run radio station Raja FM), Adam Juma (reporter and presenter for Raja FM), Dalia Marko and Randa George (reporters for Raja FM), and Boutros Martin (a cameraman for the Western Bahr el Ghazal of South Sudan Television) had been murdered while traveling as part of a convoy, along with six other people."
+            },
+            {
+              "text": "Tom Rhodes of the Committee to Protect Journalists stated after the murders that \"The murder of five journalists is a devastating attack on South Sudan's already beleaguered press corps,\" and that \"We urge Western Bahr el Ghazal authorities to do their utmost to identify the perpetrators and bring them to justice, and to ensure journalists are allowed to carry out their duties safely.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Committee to Protect Journalists"
+                }
+              ]
+            },
+            {
+              "text": "At present, none of the parties responsible for ordering the murders or perpetrators of the crimes have been arrested, charged, or convicted."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://globaljournalist.org/2015/08/south-sudan-reporter-killed-in-apparent-targeted-attack/",
+          "title": "South Sudan reporter killed in apparent targeted attack - Global Journalist",
+          "last": "Raskauskite",
+          "first": "Zivile",
+          "date": "2015-08-26",
+          "website": "Global Journalist",
+          "language": "en-US",
+          "access-date": "2016-07-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://cpj.org/2015/01/five-journalists-killed-when-gunmen-ambush-convoy-.php",
+          "title": "Five journalists killed when gunmen ambush convoy in South Sudan - Committee to Protect Journalists",
+          "date": "January 27, 2015",
+          "website": "cpj.org",
+          "publisher": "Committee to Protect Journalists",
+          "access-date": "2016-07-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Foreign policy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In mid-October 2011, Kiir announced South Sudan had applied for accession to the East African Community.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East African Community"
+                }
+              ]
+            },
+            {
+              "text": "He declared the EAC to be \"at the centre of our hearts\" due to its members' support of the South during the Sudanese civil wars."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 December 2011, Kiir visited Israel to thank it for its support during the First Sudanese Civil War from 1956 to 1972, and met with Israeli president Shimon Peres to discuss establishing an embassy in Jerusalem, which would make South Sudan the first country to have one in that city.",
+              "links": [
+                {
+                  "text": "visited",
+                  "type": "internal",
+                  "page": "Israel-South Sudan relations"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Sudanese Civil War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shimon Peres"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jerusalem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the outbreak of the South Sudanese civil war, Salva Kiir delivered a speech in January 2014 lashing out at the United Nations and “so-called humanitarian organizations,” accusing them of supporting Riek Machar to try to overthrow him."
+            },
+            {
+              "text": "He accused the UN of sheltering his enemies on their bases adding, “There is a problem with the international community, and it is something that people will have to thrash out with them.”"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2014, Kiir's government organized a rally accusing the United Nations of colluding with anti-government forces."
+            },
+            {
+              "text": "Protesters carried signs accusing the UN of arming anti-government forces."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Relations between Kiir's government and some erstwhile supporters deteriorated since the start of the civil war."
+            },
+            {
+              "text": "He disclosed in an op-ed published in his name in the Washington Times in October 2015 that unnamed \"international partners in peace\" had threatened his government with sanctions, the withdrawal of aid support, and referrals to the International Criminal Court."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Salva_Kiir_Mayardit_with_George_Bush_july_20,_2006.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Salva_Kiir_Mayardit_with_George_Bush_july_20%2C_2006.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Salva_Kiir_Mayardit_with_George_Bush_july_20%2C_2006.jpg",
+          "caption": "Kiir with United States President George W. Bush",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Kerry_Meets_With_South_Sudan_President_Kiir_(3).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Kerry_Meets_With_South_Sudan_President_Kiir_(3).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Kerry_Meets_With_South_Sudan_President_Kiir_(3).jpg",
+          "caption": "U.S. Secretary of State John Kerry meets with President Kiir, May 26, 2013",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.busiweek.com/11/the-eac-issues/eac-news/1891-south-sudan-readies-for-eac-membership",
+          "title": "South Sudan readies for EAC membership which was later rejected",
+          "publisher": "Busiweek.com",
+          "date": "2011-10-17",
+          "access-date": "2011-12-06",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20111021011844/http://www.busiweek.com/11/the-eac-issues/eac-news/1891-south-sudan-readies-for-eac-membership",
+          "archive-date": "2011-10-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.alarabiya.net/articles/2011/12/20/183573.html",
+          "title": "Al Arabiya, 12/20/2011",
+          "publisher": "Alarabiya.net",
+          "date": "2011-12-20",
+          "access-date": "2014-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Daniel Pipes",
+          "url": "http://www.danielpipes.org/10486/south-sudan-israel-allies",
+          "title": "South Sudan, Israel's New Ally",
+          "publisher": "Daniel Pipes",
+          "access-date": "2014-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xCJ9YWChiB0",
+          "archive-url": "https://ghostarchive.org/varchive/youtube/20211221/xCJ9YWChiB0",
+          "archive-date": "2021-12-21",
+          "url-status": "live",
+          "access-date": "2015-10-15",
+          "title": "South Sudan President Salva Kiir told UN of acting like a parallel government JAN 20,2014 }}{{cbignore|undefined",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "http://www.voanews.com/content/south-sudan-peace-protesters-against-un/1868885.html",
+          "title": "South Sudan Peace Protesters Rail Against UN",
+          "last": "Rwakaringi",
+          "first": "Mugume Davis",
+          "date": "2014-03-14",
+          "work": "Voice of America",
+          "access-date": "2015-10-15",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.washingtontimes.com/news/2015/oct/11/salva-kiir-mayardit-south-sudan-worlds-youngest-na/",
+          "title": "South Sudan: the world's youngest nation strives to build democracy",
+          "last": "Kiir Mayardit",
+          "first": "Salva",
+          "date": "2015-10-11",
+          "work": "Washington Times",
+          "access-date": "2015-10-16",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Heglig crisis and war with Sudan",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 26 March 2012, the South Sudanese army attacked the oilfield in the town of Heglig oilfield (known also to the Dinka of the Unity state as Panthou), located between the border of the Sudanese state of South Kordofan and the South Sudanese state of Unity, triggering the Heglig Crisis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heglig"
+                },
+                {
+                  "type": "internal",
+                  "page": "Panthou"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Kordofan"
+                },
+                {
+                  "text": "Unity",
+                  "type": "internal",
+                  "page": "Unity State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Heglig Crisis"
+                }
+              ]
+            },
+            {
+              "text": "On 27 September, Kiir met Sudanese President Omar al-Bashir and signed eight agreements in Addis Ababa, Ethiopia, which led the way to resume important oil exports and create a 6 mi demilitarised zone along their border.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Addis Ababa"
+                }
+              ]
+            },
+            {
+              "text": "The agreements allow for the return of 350,000 oilbbl of South Sudanese oil to the world market."
+            },
+            {
+              "text": "In addition, the agreements include an understanding of the parameters to follow in regards to demarcating their border, an economic cooperation agreement and a deal to protect each other's citizens."
+            },
+            {
+              "text": "Certain issues remain unsolved and future talks are scheduled to resolve them."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 November 2012, South Sudan launched a formal complaint to the United Nations Security Council (UNSC) against Sudan in the wake of aerial bombings carried out by the Sudan Armed Forces (SAF) in parts of South Sudan's northern Bahr el Ghazal state, killing at least eight people and injuring an equal number."
+            },
+            {
+              "text": "South Sudan treated the attack as a gross violation of the cooperation agreement the two country's leaders signed in Addis Ababa, Ethiopia on 27 September."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Heglig Crisis"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://theglobalobservatory.org/2012/10/negotiating-peace-in-the-sudans-the-addis-ababa-cooperation-agreement/",
+          "title": "Negotiating Peace in the Sudans: The Addis Ababa Agreement",
+          "last": "Affa'a-Mindzie",
+          "first": "Mireille",
+          "date": "2012-10-09",
+          "website": "IPI Global Observatory",
+          "language": "en-US",
+          "access-date": "2019-01-31",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://allafrica.com/stories/201211250310.html",
+          "title": "South Sudan: Juba to File Complaint to UN Security Council Over Khartoum Aggression",
+          "publisher": "allAfrica.com",
+          "date": "2012-11-25",
+          "access-date": "2014-01-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political crisis",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tensions rose between Kiir and his former vice president Riek Machar in December 2013 in the lead-up to a meeting of the National Liberation Council (NLC) of the ruling SPLM party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riek Machar"
+                }
+              ]
+            },
+            {
+              "text": "After two days of NLC meetings, on the night of 15 December 2013 shooting erupted within Salva Kiir's Presidential Guards."
+            },
+            {
+              "text": "The next day, Kiir denounced Machar and other senior SPLM officials for staging a failed coup against his government, a claim later denied by Machar and others."
+            },
+            {
+              "text": "These events marked the start of the South Sudanese Civil War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Sudanese Civil War"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "It wasn't a coup: Salva Kiir shot himself in the foot",
+          "url": "http://www.southsudannation.com/it-wasnt-a-coup-salva-kiir-shot-himself-in-the-foot/",
+          "newspaper": "South Sudan nation",
+          "access-date": "2015-11-12",
+          "date": "2013-12-20",
+          "template": "citation",
+          "type": "citation"
+        }
+      ]
+    },
+    {
+      "title": "Assassination plot",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "According to a Saudi Arabian diplomatic cable released by Wikileaks in June 2015, the Saudi Arabian embassy in Khartoum had previously alerted the Saudi Arabian government of an assassination plot against President Kiir by members of the Egyptian and Sudanese intelligence agencies.",
+              "links": [
+                {
+                  "text": "Egyptian",
+                  "type": "internal",
+                  "page": "General Intelligence Directorate (Egypt)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudanese intelligence"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Sudan Tribune",
+          "title": "Egyptian intelligence coordinated with Khartoum to assassinate South Sudan's Kiir: cable",
+          "url": "http://www.sudantribune.com/spip.php?article55401",
+          "access-date": "20 June 2015",
+          "publisher": "Sudan Tribune",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Business interests",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiir is reported to be the part-owner of ABMC Thai-South Sudan Construction Company Limited."
+            },
+            {
+              "text": "With Garang Deng aguer and Benjamin Bol Mel"
+            },
+            {
+              "text": "According to a report by Radio Tamazuj, however, Kiir's shares are not held directly but may be concealed in the name of a close associate."
+            },
+            {
+              "text": "Ties between Kiir and the company were denied by Kiir's spokesman Ateny Wek."
+            },
+            {
+              "text": "The company was awarded at least $161 million in government roads contracts."
+            },
+            {
+              "text": "The president's wife previously held shares in Yanyyom Mineral Water and Beverage Factory located in Juba."
+            },
+            {
+              "text": "The factory took its name from Lake Yanyyom, located near the president's hometown Akon in Warrap State."
+            },
+            {
+              "text": "Another owner of the factory was Garang Deng Aguer, a business magnate and former Governor of Northern Bahr al Ghazal State."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://radiotamazuj.org/en/article/special-investigation-president-kiir-linked-multi-million-dollar-roads-contracts",
+          "title": "Special investigation: President Kiir linked to multi-million dollar roads contracts",
+          "last": "Radio Tamazuj",
+          "date": "2015-06-16",
+          "access-date": "2015-10-15",
+          "archive-url": "https://web.archive.org/web/20160112203546/https://radiotamazuj.org/en/article/special-investigation-president-kiir-linked-multi-million-dollar-roads-contracts",
+          "archive-date": "2016-01-12",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://radiotamazuj.org/en/article/special-investigation-kiir-did-business-ex-ncp-governor",
+          "title": "Special investigation: Kiir did business with ex-NCP governor",
+          "last": "Radio Tamazuj",
+          "date": "2015-06-24",
+          "access-date": "2015-10-15",
+          "archive-url": "https://web.archive.org/web/20160131015539/https://radiotamazuj.org/en/article/special-investigation-kiir-did-business-ex-ncp-governor",
+          "archive-date": "2016-01-31",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0
+    },
+    {
+      "title": "Stetson hat",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2006, when visiting the White House, Kiir received a black stetson as a gift from U.S. President George W. Bush.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "White House"
+                },
+                {
+                  "text": "stetson",
+                  "type": "internal",
+                  "page": "stetson"
+                },
+                {
+                  "type": "internal",
+                  "page": "George W. Bush"
+                }
+              ]
+            },
+            {
+              "text": "He reportedly liked it so much that he purchased several."
+            },
+            {
+              "text": "He now rarely makes public appearances without wearing one."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Foreign Policy",
+          "title": "Where did Kiir get his ten-gallon hat?",
+          "url": "https://foreignpolicy.com/2011/09/26/where-did-kiir-get-his-ten-gallon-hat/",
+          "access-date": "2016-07-11",
+          "magazine": "Foreign Policy",
+          "template": "citation",
+          "type": "magazine"
+        }
+      ]
+    },
+    {
+      "title": "Marriage controversy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a politically charged social issue, it has been claimed that Kiir secretly married the daughter of former comrade, the late William Nyuon Bany, an ethnic Nuer and former leader of the SPLA.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "William Nyuon Bany"
+                }
+              ]
+            },
+            {
+              "text": "Allegedly, a traditional Dinka ceremony was conducted by his brothers."
+            },
+            {
+              "text": "This led to strife between Kiir's eldest daughter and Aluel William Nyuon Bany."
+            },
+            {
+              "text": "Kiir has not publicly commented on the allegation."
+            },
+            {
+              "text": "According to media reports in Kenya, \"Kiir's in-laws\" have requested privacy."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "The Nairobian",
+          "title": "Battles rock Salva Kiir family in Nairobi",
+          "url": "http://www.standardmedia.co.ke/entertainment/thenairobian/article/4998/battles-rock-salva-kiir-family-in-nairobi?pageNo=2",
+          "access-date": "2014-04-16",
+          "publisher": "Standard Media Group",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "The Nairobian",
+          "title": "\"Our family life is private\" Kiirs in-law says",
+          "url": "http://newskenya.co.ke/news/latest/the-standard/-our-family-life-is-private-kiirs-in-law-says/ebl9k.465347",
+          "url-status": "bot: unknown",
+          "archive-url": "https://web.archive.org/web/20140422233128/http://newskenya.co.ke/news/latest/the-standard/-our-family-life-is-private-kiirs-in-law-says/ebl9k.465347",
+          "archive-date": "2014-04-22",
+          "access-date": "2014-04-21",
+          "publisher": "Standard Media",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Works cited",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "LeRiche",
+          "first1": "Matthew",
+          "last2": "Arnold",
+          "first2": "Matthew",
+          "year": "2013",
+          "title": "South Sudan: From Revolution to Independence",
+          "location": "Oxford",
+          "publisher": "Oxford University Press",
+          "url": "https://books.google.com/books?id=OAQqBgAAQBAJ",
+          "isbn": "9780199333400",
+          "template": "citation",
+          "type": "cite book"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Salva Kiir Mayardit"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Vice President of Southern Sudan",
+          "years": "2005",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Riek Machar",
+          "template": "s-aft"
+        },
+        {
+          "before": "John Garang",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Southern Sudan",
+          "years": "2005–2011",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Position abolished",
+          "template": "s-non"
+        },
+        {
+          "title": "First Vice President of Sudan",
+          "years": "2005–2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ali Osman Taha",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "President of South Sudan",
+          "years": "2011–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "ssudanpresidents"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Salva Kiir Speaks at the International Peace Institute, 22 September 2010",
+            "links": [
+              {
+                "text": "Salva Kiir Speaks at the International Peace Institute",
+                "type": "external",
+                "site": "http://www.ipinst.org/events/speakers/details/230-salva-kiir-southern-sudan-vote-delay-could-risk-war.html"
+              }
+            ]
+          },
+          {
+            "text": "Kiir's Speech on First Visit to Washington, at Woodrow Wilson International Center for Scholars, 4 November 2005",
+            "links": [
+              {
+                "text": "Kiir's Speech on First Visit to Washington",
+                "type": "external",
+                "site": "http://www.wilsoncenter.org/index.cfm?topic_id=1417&fuseaction=topics.event_summary&event_id=152220"
+              },
+              {
+                "type": "internal",
+                "page": "Woodrow Wilson International Center for Scholars"
+              }
+            ]
+          },
+          {
+            "text": "Address by President Salva Kiir to the 66th session of the United Nations General Assembly, 23 September 2011 (video; summary and transcript)",
+            "links": [
+              {
+                "text": "Address by President Salva Kiir",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120929100056/http://www.unmultimedia.org/tv/webcast/2011/09/south-sudan-general-debate-66th-session.html"
+              },
+              {
+                "text": "summary and transcript",
+                "type": "external",
+                "site": "https://web.archive.org/web/20150124033600/http://gadebate.un.org/66/south-sudan-republic"
+              },
+              {
+                "type": "internal",
+                "page": "United Nations General Assembly"
+              }
+            ]
+          },
+          {
+            "text": "Profile: Salva Kiir - South Sudan's Commander-in-chief - image vs reality, 13 October 2014",
+            "links": [
+              {
+                "text": "Profile: Salva Kiir - South Sudan's Commander-in-chief - image vs reality",
+                "type": "external",
+                "site": "http://africanarguments.org/2014/10/13/profile-salva-kiir-south-sudans-commander-in-chief-image-vs-reality/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Joseph Monytuil",
+  "pageID": 49132466,
+  "categories": [
+    "Living people",
+    "South Sudanese politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joseph Nguen Monytuil is the current Governor of Northern Liech, South Sudan, a post he has held since 24 December 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Liech"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joseph Nguen Monytuil"
+                ]
+              }
+            },
+            {
+              "text": "He is the first governor of Liech State, which was created by President Salva Kiir on 2 October 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salva Kiir"
+                }
+              ]
+            },
+            {
+              "text": "Before his appointment as the governor of Northern Liech, he was the caretaker governor of the former Unity State deputized by Colonel Miabek Lang Miading Bil-Kuei from Panriang."
+            },
+            {
+              "text": "Joseph's predecessor is the current first vice president of the republic of South Sudan, Gen Taban Deng Gai."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "24 December 2015",
+          "title": "South Sudan's President appoints 28 Governors, defies peace agreement",
+          "publisher": "South Sudan News Agency",
+          "url": "http://www.southsudannewsagency.com/news/breaking-news/south-sudans-president-appoints-28-governors-defies-peace-agreement",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160202025755/http://www.southsudannewsagency.com/news/breaking-news/south-sudans-president-appoints-28-governors-defies-peace-agreement",
+          "archivedate": "2 February 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://radiotamazuj.org/en/article/kiir-and-makuei-want-28-states-s-sudan",
+          "title": "Kiir and Makuei want 28 states in South Sudan",
+          "publisher": "Radio Tamazuj",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20151208183221/https://radiotamazuj.org/en/article/kiir-and-makuei-want-28-states-s-sudan",
+          "archivedate": "2015-12-08",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

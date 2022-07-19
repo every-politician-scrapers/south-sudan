@@ -1,0 +1,86 @@
+{
+  "title": "Morris Yel Akol",
+  "pageID": 32635422,
+  "categories": [
+    "South Sudanese politicians",
+    "Living people",
+    "People from Western Bahr el Ghazal",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morris Yel Akol is a South Sudanese politician.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Morris Yel Akol"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Minister of Finance of Western Bahr el Ghazal since 18 May 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Bahr el Ghazal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "update"
+        },
+        {
+          "date": "November 2020",
+          "template": "one source"
+        },
+        {
+          "template": "multiple issues"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gurtong.net/Governance/Governments/GovernmentofSouthSudanStates/WesternBahrelGhazalState/tabid/337/Default.aspx",
+          "title": "Western Bahr El Ghazal State",
+          "publisher": "Gurtong",
+          "accessdate": "4 August 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

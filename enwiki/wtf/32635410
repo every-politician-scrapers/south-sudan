@@ -1,0 +1,80 @@
+{
+  "title": "Wol Akec Akol",
+  "pageID": 32635410,
+  "categories": [
+    "South Sudanese politicians",
+    "Living people",
+    "South Sudanese military personnel",
+    "People from Western Bahr el Ghazal",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Colonel Wol Akec Akol is a South Sudanese politician and military figure.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Colonel Wol Akec Akol"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Minister of Agriculture of Western Bahr el Ghazal since 18 May 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Bahr el Ghazal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister of Agriculture of Western Bahr el Ghazal",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "update"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gurtong.net/Governance/Governments/GovernmentofSouthSudanStates/WesternBahrelGhazalState/tabid/337/Default.aspx",
+          "title": "Western Bahr El Ghazal State",
+          "publisher": "Gurtong",
+          "accessdate": "4 August 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

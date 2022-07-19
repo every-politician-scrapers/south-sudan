@@ -1,0 +1,128 @@
+{
+  "title": "Madut Biar Yel",
+  "pageID": 32514362,
+  "categories": [
+    "Living people",
+    "Government ministers of South Sudan",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madut Biar Yel is a South Sudanese politician.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Madut Biar Yel"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister for Telecommunication and Postal Services in the Cabinet of South Sudan.",
+              "links": [
+                {
+                  "text": "Telecommunication and Postal Services",
+                  "type": "internal",
+                  "page": "Ministry of Telecommunication and Postal Services (South Sudan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of South Sudan"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to that position on 10 July 2011."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ministry of Telecommunication and Postal Services (South Sudan)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ministry of Telecommunication and Postal Services (South Sudan)"
+              }
+            ]
+          },
+          {
+            "text": "SPLM",
+            "links": [
+              {
+                "type": "internal",
+                "page": "SPLM"
+              }
+            ]
+          },
+          {
+            "text": "SPLA",
+            "links": [
+              {
+                "text": "SPLA",
+                "type": "internal",
+                "page": "Sudan People's Liberation Army/Movement"
+              }
+            ]
+          },
+          {
+            "text": "Cabinet of South Sudan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of South Sudan"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

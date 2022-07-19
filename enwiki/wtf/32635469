@@ -1,0 +1,76 @@
+{
+  "title": "John Peter Miskin",
+  "pageID": 32635469,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Living people",
+    "People from Western Bahr el Ghazal",
+    "South Sudanese lawyers",
+    "South Sudanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mowlana John Peter Miskin is a South Sudanese lawyer and politician.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mowlana John Peter Miskin"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Minister of Legal Affairs of Western Bahr el Ghazal since 18 May 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Bahr el Ghazal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese lawyer and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gurtong.net/Governance/Governments/GovernmentofSouthSudanStates/WesternBahrelGhazalState/tabid/337/Default.aspx",
+          "title": "Western Bahr El Ghazal State",
+          "publisher": "Gurtong",
+          "accessdate": "4 August 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
