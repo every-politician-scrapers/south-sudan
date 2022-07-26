@@ -1,0 +1,136 @@
+{
+  "title": "Josephine Joseph Lagu",
+  "pageID": 71263296,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Josephine Joseph Lagu is a South Sudanese politician and the Minister of Agriculture and Food Security as of 2022.",
+              "formatting": {
+                "bold": [
+                  "Josephine Joseph Lagu"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of sudan"
+        }
+      ],
+      "references": [
+        {
+          "title": "World Bank provides 113 mln USD to boost food production in South Sudan - Xinhua {{!}} English.news.cn",
+          "url": "http://www.xinhuanet.com/english/africa/2021-06/25/c_1310026291.htm",
+          "access-date": "2022-07-10",
+          "website": "www.xinhuanet.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "🇸🇸 Hon. Josephine Joseph Lagu – Women in AgriTech",
+          "url": "https://womeninagritech.com/speaker/%f0%9f%87%b8%f0%9f%87%b8-hon-josephine-joseph-lagu/",
+          "access-date": "2022-07-10",
+          "language": "fr-CA",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political affiliation (party)",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hon Josephine Lagu is a member of the People's Democratic Movement founded by Dr. Hakim Darious but was elected in 2019 to the position of chairperson of the South Sudan Opposition Alliance, which comprises various opposition parties.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Sudan Opposition Alliance"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "JOSEPHINE JOSEPH LAGU WAS ELECTED TO HEAD THE SSOA",
+          "url": "https://www.southsudanliberty.com/news/index.php/latest-news/1950-josephine-joseph-lagu-was-elected-to-head-the-ssoa",
+          "access-date": "2022-07-10",
+          "website": "www.southsudanliberty.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "South Sudan opposition coalition elects new leadership",
+          "url": "https://radiotamazuj.org/en/news/article/south-sudan-opposition-coalition-elects-new-leadership",
+          "access-date": "2022-07-10",
+          "website": "Radio Tamazuj",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Josephine Joseph Lagu was accused of involvement in the embezzlement of funds in 2009."
+            },
+            {
+              "text": "However, on Friday, April 30th, 2010, the High Court in Juba cleared Josephine of all the charges for lack of proof."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "government ministries of south sudan"
+        },
+        {
+          "template": "south sudanese political parties"
+        }
+      ],
+      "references": [
+        {
+          "title": "Lagu’s family celebrates acquittal of corruption charges",
+          "url": "https://sudantribune.com/article34778/",
+          "access-date": "2022-07-10",
+          "website": "Sudan tribune",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reference list"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

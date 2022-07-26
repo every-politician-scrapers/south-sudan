@@ -1,0 +1,135 @@
+{
+  "title": "Onyoti Adigo Nyikec",
+  "pageID": 71263788,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Onyoti Adigo Nyikec is a South Sudanese politician and the Minister of Livestock and Fisheries as of 2022.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Onyoti Adigo Nyikec"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-07-05",
+          "title": "South Sudan President Salva Kiir names full Cabinet",
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-president-salva-kiir-names-full-cabinet-1438518",
+          "access-date": "2022-07-10",
+          "website": "The East African",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was appointed as a minster in May 2019 by the president among other ministers."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-07-19",
+          "title": "South Sudan President Salva Kiir names full Cabinet",
+          "url": "https://www.monitor.co.ug/uganda/news/world/south-sudan-president-salva-kiir-names-full-cabinet-1880066",
+          "access-date": "2022-07-10",
+          "website": "Monitor",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-03-12",
+          "title": "Kiir appoints ministers",
+          "url": "https://www.eyeradio.org/kiir-announces-his-new-cabinet/",
+          "access-date": "2022-07-10",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Onyoti Adigo Nyikec, who at the time was a senior member of the Sudan People's Liberation for Democratic Change (SPLM-DC) had allegedly described the Sudanese president as a \"crazy\" and \"emotional\" leader who makes public statements without taking into consideration the likely consequences, but later the party SPLM-DC apologized.",
+              "links": [
+                {
+                  "text": "Sudanese",
+                  "type": "internal",
+                  "page": "Politics of Sudan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "south sudan topics"
+        },
+        {
+          "template": "south sudanese political parties"
+        },
+        {
+          "template": "presidents of south sudan"
+        }
+      ],
+      "references": [
+        {
+          "date": "16 June 2013",
+          "title": "S. Sudan opposition apologises for anti-Bashir remarks",
+          "url": "https://sudantribune.com/article46091/",
+          "newspaper": "Sudan Tribune",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

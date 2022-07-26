@@ -1,0 +1,124 @@
+{
+  "title": "Martin Elia Lomuro",
+  "pageID": 71252376,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of South Sudan",
+    "Sudan People's Liberation Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin Elia Lomuro is a South Sudanese politician and the current minister of cabinet affairs.",
+              "formatting": {
+                "bold": [
+                  "Martin Elia Lomuro"
+                ]
+              }
+            },
+            {
+              "text": "He belongs to the SPLM party.",
+              "links": [
+                {
+                  "text": "SPLM party",
+                  "type": "internal",
+                  "page": "Sudan People's Liberation Movement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese politician",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "Carrier and work experience",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was the Minister of Animal Resources and Fisheries by 2012, He was also the Minister of cabinet affairs by 2022"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Brief statement of appreciationSouth Sudan-Dr. Martin Elia Lomuroat the 35th Session of IFADs Governing Council",
+          "url": "https://www.ifad.org/fr/web/latest/-/speech/brief-statement-of-appreciationsouth-sudan-dr-martin-elia-lomuroat-the-35th-session-of-ifads-governing-council",
+          "access-date": "2022-07-08",
+          "website": "IFAD",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Martin Elia Lomuro {{!}} Profile {{!}} Africa Confidential",
+          "url": "https://www.africa-confidential.com/profile/id/4334/Martin_Elia_Lomuro",
+          "access-date": "2022-07-08",
+          "website": "www.africa-confidential.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lomuro bank accounts were suspected for money laundering of which his accounts where later released."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Kenya High Court clears cabinet minister Dr. Lomuro of money laundering charges",
+          "url": "https://radiotamazuj.org/en/news/article/kenya-high-court-clears-cabinet-minister-dr-lomuro-of-money-laundering-charges",
+          "access-date": "2022-07-08",
+          "website": "Radio Tamazuj",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kenya freezes minister Lomuro’s bank accounts; he cites political ‘witch-hunt’",
+          "url": "https://radiotamazuj.org/en/news/article/kenya-freezes-minister-lomuro-s-bank-accounts-he-cites-political-witch-hunt",
+          "access-date": "2022-07-08",
+          "website": "Radio Tamazuj",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
