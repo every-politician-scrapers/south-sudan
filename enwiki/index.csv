@@ -1,34 +1,37 @@
-pageid,title
-2363203,Salva Kiir Mayardit
-2407248,Riek Machar
-12820503,Rebecca Nyandeng De Mabior
-32433474,Louis Lobong Lojore
-32513627,Deng Alor Kuol
-32513754,Michael Makue Loweth
-32513879,Awut Deng Acuil
-32513889,Gabriel Changson Chang
-32514186,Barnaba Marial Benjamin
-32514341,Garang Diing Akuong
-32514362,Madut Biar Yel
-32514469,Jemma Nunu Kumba
-32635058,Joseph Bakosoro
-32635358,Taban Deng Gai
-32635410,Wol Akec Akol
-32635422,Morris Yel Akol
-32635469,John Peter Miskin
-33503271,Angelina Teny
-33600909,James Wani Igga
-41569680,James Hoth Mai
-49132320,Rezik Zechariah Hassan
-49132466,Joseph Monytuil
-56585928,Mayiik Ayii Deng
-56753616,Lily Albino Akol Akol
-63202408,Hussein Abdelbagi
-64429254,Kuol Deim Kuol
-64434906,Emmanuel Adil Anthony
-64560924,Denay Jock Chagor
-66586396,Sarah Cleto Hassan
-66810603,Tong Akeen Ngor
-70394565,Ruben Madol Arol Kachuol
-71192049,Agak Achuil Lual
-71283684,Nadia Arop Dudi
+pageid,title,wikidata,label
+2363203,Salva Kiir Mayardit,Q57315,Salva Kiir Mayardit
+2407248,Riek Machar,Q444994,Riek Machar
+12820503,Rebecca Nyandeng De Mabior,Q3379134,Rebecca Nyandeng De Mabior
+32433474,Louis Lobong Lojore,Q16202255,Louis Lobong Lojore
+32513627,Deng Alor Kuol,Q5256910,Deng Alor Kuol
+32513754,Michael Makue Loweth,Q6832462,Michael Makue Loweth
+32513879,Awut Deng Acuil,Q12748065,Awut Deng Acuil
+32513889,Gabriel Changson Chang,Q5515569,Gabriel Changson Chang
+32514186,Barnaba Marial Benjamin,Q4861322,Barnaba Marial Benjamin
+32514341,Garang Diing Akuong,Q5521927,Garang Diing Akoung
+32514362,Madut Biar Yel,Q6728866,Madut Biar Yel
+32514469,Jemma Nunu Kumba,Q6177210,Jemma Nunu Kumba
+32635058,Joseph Bakosoro,Q6281290,Joseph Bakosoro
+32635358,Taban Deng Gai,Q7672883,Taban Deng Gai
+32635410,Wol Akec Akol,Q8029360,Wol Akec Akol
+32635422,Morris Yel Akol,Q16145804,Morris Yel Akol
+32635469,John Peter Miskin,Q16732677,Mowlana John Peter Miskin
+33503271,Angelina Teny,Q4762750,Angelina Teny
+33600909,James Wani Igga,Q6145116,James Wani Igga
+41569680,James Hoth Mai,Q16193152,James Hoth Mai
+49132320,Rezik Zechariah Hassan,Q7339103,Rizik Zackaria Hassan
+49132466,Joseph Monytuil,Q22278446,Joseph Monytuil
+56585928,Mayiik Ayii Deng,Q48975135,Mayiik Ayii Deng
+56753616,Lily Albino Akol Akol,Q50379451,Lily Albino Akol Akol
+63202408,Hussein Abdelbagi,Q86281606,Hussein Abdelbagi
+64429254,Kuol Deim Kuol,Q96760058,Kuol Deim Kuol
+64434906,Emmanuel Adil Anthony,Q96776905,Emmanuel Adil Anthony
+64560924,Denay Jock Chagor,Q97413828,Denay Jock Chagor
+66586396,Sarah Cleto Hassan,Q105223028,Sarah Cleto Hassan
+66810603,Tong Akeen Ngor,Q105604868,Tong Akeen Ngor
+70394565,Ruben Madol Arol Kachuol,Q111595868,Ruben Madol Arol Kachuol
+71192049,Agak Achuil Lual,Q112686449,Agak Achuil Lual
+71252376,Martin Elia Lomuro,Q112685857,Martin Elia Lomuro
+71263296,Josephine Joseph Lagu,Q112685733,Josephine Lagu
+71263788,Onyoti Adigo Nyikec,Q112525855,Onyoti Adigo Nyikwac
+71283684,Nadia Arop Dudi,Q112685866,Nadia Arop Dudi

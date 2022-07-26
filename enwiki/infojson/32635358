@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "First Vice President of South Sudan"
+    },
+    "P580": "2016-07-23",
+    "P1365": {
+      "links": [
+        "Riek Machar"
+      ],
+      "stated_as": "Riek Machar"
+    },
+    "P582": "2020-02-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "Third Vice President of South Sudan"
+    },
+    "P580": "2020-02-21"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health (NBGS)"
+    },
+    "P580": "2018-09-30",
+    "P1365": {
+      "links": [
+        "Bol Bak Thou"
+      ],
+      "stated_as": "Bol Bak Thou"
+    },
+    "P582": "2019-05-24",
+    "P1366": {
+      "links": [
+        "Dr. Aleu Pioth"
+      ],
+      "stated_as": "Dr. Aleu Pioth"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Northern Bahr el Ghazal"
+    },
+    "P580": "2020-06-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jal Malith Jal"
+    }
+  }
+]

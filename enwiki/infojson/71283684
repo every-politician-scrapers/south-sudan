@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Sudan",
+        "Koch County"
+      ],
+      "stated_as": "Member of the National Assembly of Sudan for Koch County"
+    },
+    "P580": "2005",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "Southern Sudan Legislative Assembly",
+        "Koch County"
+      ],
+      "stated_as": "Member of the Southern Sudan Legislative Assembly for Koch County"
+    },
+    "P580": "2005",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+        "National Legislative Assembly (South Sudan)",
+        "Koch County"
+      ],
+      "stated_as": "Member of the National Legislative Assembly for Koch County"
+    },
+    "P580": "2011-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture, Youth and Sports (South Sudan)"
+      ],
+      "stated_as": "Minister of Culture, Youth and Sports"
+    },
+    "P580": "2011-08-04",
+    "P1365": {
+      "links": [
+        "Cirino Hiteng Ofuho"
+      ],
+      "stated_as": "Cirino Hiteng Ofuho"
+    },
+    "P582": "2020-03",
+    "P1366": {
+      "links": [
+        "Albino Bol"
+      ],
+      "stated_as": "Albino Bol"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture, Museums and National Heritage (South Sudan)"
+      ],
+      "stated_as": "Minister of Culture, Museums and National Heritage"
+    },
+    "P580": "2020-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office established"
+    }
+  }
+]
