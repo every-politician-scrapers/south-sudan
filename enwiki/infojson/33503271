@@ -1,0 +1,30 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "State Minister of Energy and Mining"
+    },
+    "P580": "2005-01",
+    "P582": "2010-04"
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of Strategic Defence and Security Review Board (SDSRB) (South Sudan)"
+      ],
+      "stated_as": "Chair of SDSRB"
+    },
+    "P580": "2018-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence and Veterans Affairs (South Sudan)"
+      ],
+      "stated_as": "Minister of Defence and Veterans' Affairs"
+    },
+    "P580": "2020-03-12"
+  }
+]

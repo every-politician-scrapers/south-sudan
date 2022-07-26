@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of Southern Sudan"
+    },
+    "P580": "2005-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2005-08-11",
+    "P1366": {
+      "links": [
+        "Riek Machar Teny"
+      ],
+      "stated_as": "Riek Machar Teny"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Southern Sudan Autonomous Region (2005–11)"
+      ],
+      "stated_as": "President of Southern Sudan"
+    },
+    "P580": "2005-07-30",
+    "P1365": {
+      "links": [
+        "John Garang"
+      ],
+      "stated_as": "John Garang"
+    },
+    "P582": "2011-07-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Sudan"
+      ],
+      "stated_as": "First Vice President of Sudan"
+    },
+    "P580": "2005-08-11",
+    "P1365": {
+      "links": [
+        "John Garang"
+      ],
+      "stated_as": "John Garang"
+    },
+    "P582": "2011-07-09",
+    "P1366": {
+      "links": [
+        "Ali Osman Taha"
+      ],
+      "stated_as": "Ali Osman Taha"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of South Sudan"
+      ],
+      "stated_as": "1st President of South Sudan"
+    },
+    "P580": "2011-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

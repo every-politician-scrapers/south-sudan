@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Southern Sudan Autonomous Region (2005–11)"
+      ],
+      "stated_as": "Minister of Roads and Transport of Southern Sudan"
+    },
+    "P580": "2005",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office created"
+    },
+    "P582": "2007",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Sudan"
+      ],
+      "stated_as": "Second Lady of Sudan"
+    },
+    "P580": "2005-01-09",
+    "P582": "2005-07-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mary Ayen Mayardit\nAluel William Nyuon Bany"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Southern Sudan Autonomous Region"
+      ],
+      "stated_as": "First Lady of Southern Sudan"
+    },
+    "P580": "2005-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office created"
+    },
+    "P582": "2005-07-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mary Ayen Mayardit\nAluel William Nyuon Bany"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of South Sudan"
+      ],
+      "stated_as": "Advisor for the President of South Sudan"
+    },
+    "P580": "2011",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "Fourth Vice President of South Sudan"
+    },
+    "P580": "2020-02-21"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "office": {
+      "links": [
+        "Western Equatoria"
+      ],
+      "stated_as": "Governor of Western Equatoria"
+    },
+    "P580": "2008",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Samuel Abu-John Kabbashi"
+    },
+    "P582": "2010",
+    "P1366": {
+      "links": [
+        "Joseph Bakosoro"
+      ],
+      "stated_as": "Joseph Bakosoro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Housing, Physical Planning and Environment (South Sudan)"
+      ],
+      "stated_as": "Minister of Housing, Physical Planning, and Environment"
+    },
+    "P580": "2010",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Electricity, Dams, Irrigation and Water Resources"
+    },
+    "P580": "2013",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Gender, Social Welfare and Religious Affairs (South Sudan)"
+      ],
+      "stated_as": "Minister of Gender, Social Welfare, and Religious Affairs"
+    },
+    "P580": "2015",
+    "P1365": {
+      "links": [
+        "Michael Makue Loweth"
+      ],
+      "stated_as": "Michael Makue Loweth"
+    },
+    "P582": "2015",
+    "P1366": {
+      "links": [
+        "Rebecca Joshua Okwaci"
+      ],
+      "stated_as": "Rebecca Joshua Okwaci"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Wildlife Conservation and Tourism"
+      ],
+      "stated_as": "Minister of Wildlife Conservation and Tourism"
+    },
+    "P580": "2015",
+    "P1365": {
+      "links": [
+        "Betty Ogwaro"
+      ],
+      "stated_as": "Betty Ogwaro"
+    },
+    "P582": "2019",
+    "P1366": {
+      "links": [
+        "Gabriel Changson Chang"
+      ],
+      "stated_as": "Gabriel Changson Chang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Legislative Assembly of South Sudan"
+      ],
+      "stated_as": "Speaker of the Transitional National Legislative Assembly"
+    },
+    "P580": "2021-08-02",
+    "P1365": {
+      "links": [
+        "Obuch Ojok"
+      ],
+      "stated_as": "Obuch Ojok"
+    }
+  }
+]

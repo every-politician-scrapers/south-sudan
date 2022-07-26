@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Southern Sudan Autonomous Region (2005–11)"
+      ],
+      "stated_as": "Vice President of Southern Sudan"
+    },
+    "P580": "2005-08-11",
+    "P1365": {
+      "links": [
+        "Salva Kiir Mayardit"
+      ],
+      "stated_as": "Salva Kiir Mayardit"
+    },
+    "P582": "2011-07-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "1st Vice President of South Sudan"
+    },
+    "P580": "2011-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2013-07-23",
+    "P1366": {
+      "links": [
+        "James Wani Igga"
+      ],
+      "stated_as": "James Wani Igga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "1st & 3rd First Vice President of South Sudan"
+    },
+    "P580": "2016-04-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2016-07-23",
+    "P1366": {
+      "links": [
+        "Taban Deng Gai"
+      ],
+      "stated_as": "Taban Deng Gai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of South Sudan"
+      ],
+      "stated_as": "1st & 3rd First Vice President of South Sudan"
+    },
+    "P580": "2020-02-21",
+    "P1365": {
+      "links": [
+        "Taban Deng Gai"
+      ],
+      "stated_as": "Taban Deng Gai"
+    }
+  }
+]
