@@ -1,0 +1,140 @@
+{
+  "title": "Dhieu Mathok",
+  "pageID": 71277743,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Government ministers of South Sudan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dhieu Mathok Diing Wol is a South Sudanese politician and the Minister of Investment in the Revitalized Government of National Unity, Republic of South Sudan.",
+              "formatting": {
+                "bold": [
+                  "Dhieu Mathok Diing Wol"
+                ]
+              }
+            },
+            {
+              "text": "as of 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He also served as Secretary of South Sudan Mediation Committee on Sudanese Peace Talks in Juba.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a Minister, in the Ministry of Energy and Dams in 2016"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2021, Dhieu tested positive for COVID-19 in Doha, Qatar, a claim he rejected later as a false positive result.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                },
+                {
+                  "type": "internal",
+                  "page": "Doha"
+                },
+                {
+                  "text": "false positive",
+                  "type": "internal",
+                  "page": "false positive"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of south sudan"
+        }
+      ],
+      "references": [
+        {
+          "last": "Henderson",
+          "first": "Ian",
+          "title": "Dhieu Mathok Diing Wol",
+          "url": "https://www.accord.org.za/people/dhieu-mathok-diing-wol/",
+          "access-date": "2022-07-12",
+          "website": "ACCORD",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2016-09-02",
+          "title": "Exclusive interview with Dhieu Mathok Diing Wol (PhD), Minister, Ministry of Energy and Dams",
+          "url": "https://www.esi-africa.com/features-analysis/exclusive-interview-dhieu-mathok-diing-wol-phd-minister-ministry-energy-dams/",
+          "access-date": "2022-07-12",
+          "website": "ESI-Africa.com",
+          "language": "en-ZA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-12",
+          "title": "Dhieu Mathok tests positive for Covid-19 in Doha",
+          "url": "https://www.eyeradio.org/dhieu-mathok-tests-positive-for-covid-19-in-doha/",
+          "access-date": "2022-07-12",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-20",
+          "title": "Dhieu Mathok says he was quarantined with false COVID-19 positive results in Qatar",
+          "url": "https://www.sudanspost.com/dhieu-mathok-says-he-was-quarantined-with-false-covid-19-positive-results-in-qatar/",
+          "access-date": "2022-07-12",
+          "website": "Sudans Post",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "south sudan topics"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
