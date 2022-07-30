@@ -453,15 +453,16 @@
               ]
             },
             {
-              "text": "In 2016, Dudi was one of 60 government officials allegedly implicated in a scandal regarding the Bank of South Sudan, in which SS£443 million of funds meant for the Crisis Management Committee was used to pay various politicians and companies.",
+              "text": "In 2016, Dudi was one of 60 government officials allegedly implicated in a scandal regarding the Bank of South Sudan, in which SSP £443 million of funds meant for the Crisis Management Committee was used to pay various politicians and companies.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bank of South Sudan"
                 },
                 {
+                  "text": "SSP £",
                   "type": "internal",
-                  "page": "SS£"
+                  "page": "South Sudanese pound"
                 }
               ]
             }
