@@ -1,0 +1,164 @@
+{
+  "title": "Lasuba L. Wango",
+  "pageID": 71408086,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Date of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Government ministers of South Sudan",
+    "Sudan People's Liberation Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lasuba L. Wango is a South Sudanese politician who has served in the Cabinet of South Sudan as the Minister of Federal Affairs since 12 March 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of South Sudan"
+                },
+                {
+                  "text": "Minister of Federal Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Federal Affairs (South Sudan)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lasuba L. Wango"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Sudan People's Liberation Movement-in-Opposition party, Wango was appointed to the position as part of a power-sharing agreement which concluded the South Sudanese Civil War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sudan People's Liberation Movement-in-Opposition"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Sudanese Civil War"
+                }
+              ]
+            },
+            {
+              "text": "In this position, Wango has overseen South Sudan's transition towards federalism.",
+              "links": [
+                {
+                  "text": "federalism",
+                  "type": "internal",
+                  "page": "federalism"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Federal Affairs",
+            "links": [
+              {
+                "text": "Minister of Federal Affairs",
+                "type": "internal",
+                "page": "Ministry of Federal Affairs (South Sudan)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "12 March 2020"
+          },
+          "party": {
+            "text": "SPLM-IO",
+            "links": [
+              {
+                "type": "internal",
+                "page": "SPLM-IO"
+              }
+            ]
+          },
+          "president": {
+            "text": "Salva Kiir Mayardit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salva Kiir Mayardit"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "March 12, 2020",
+          "title": "South Sudan's Kiir names cabinet",
+          "url": "https://radiotamazuj.org/en/news/article/south-sudan-s-kiir-names-cabinet",
+          "access-date": "2022-07-29",
+          "website": "Radio Tamazuj",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Malak",
+          "first": "Garang",
+          "date": "2020-03-13",
+          "title": "South Sudan President Salva Kiir names full Cabinet",
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-president-salva-kiir-names-full-cabinet-1438518",
+          "access-date": "2022-07-29",
+          "website": "The EastAfrican",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-06-23",
+          "title": "Machar presides over launch of symposium on federalism as part of permanent constitution making process",
+          "url": "https://www.sudanspost.com/machar-presides-over-launch-of-symposium-on-federalism-as-part-of-permanent-constitution-making-process/",
+          "access-date": "2022-07-29",
+          "website": "Sudans Post",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Wote",
+          "first": "Charles",
+          "date": "2021-11-26",
+          "title": "Federal affairs minister cautions anti-federalism",
+          "url": "https://www.eyeradio.org/federal-affairs-minister-cautions-anti-federalism/",
+          "access-date": "2022-07-29",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

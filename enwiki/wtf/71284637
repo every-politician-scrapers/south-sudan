@@ -1,0 +1,120 @@
+{
+  "title": "Peter Mayen",
+  "pageID": 71284637,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "South Sudanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Mayen Majongdit also knows as Peter Mayen is a South Sudanese politician and the minister of Humanitarian Affairs and Disaster Management as of 2022.",
+              "links": [
+                {
+                  "text": "South Sudanese",
+                  "type": "internal",
+                  "page": "South Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Peter Mayen Majongdit",
+                  "Peter Mayen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "== Controversy =="
+            },
+            {
+              "text": "In 2021 Peter, Mayen was accused by the members of public and the civil society activists for allegedly beating and stabbing his wife."
+            },
+            {
+              "text": "This caused removal of his membership of the OPP (Other Political Parties)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A petition was launched by civil rights activists to have him removed from his ministerial position which was not endorsed by the president so he keeps his position as of 2022."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South Sudanese politician",
+          "template": "short description"
+        },
+        {
+          "template": "politics of south sudan"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-08-07",
+          "title": "OPP dismisses controversial Mayen",
+          "url": "https://www.eyeradio.org/opp-dismisses-controversial-mayen/",
+          "access-date": "2022-07-13",
+          "website": "Eye Radio",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "This man, Peter Mayen Majongdit",
+          "url": "https://cityreviewss.com/this-man-peter-mayen-majongdit/",
+          "access-date": "2022-07-13",
+          "website": "The City Review South Sudan",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "says",
+          "first": "Gol Bol",
+          "date": "2021-08-06",
+          "title": "Peter Mayen fired as party, OPP leader after stabbing wife",
+          "url": "https://www.sudanspost.com/peter-mayen-fired-as-party-opp-leader-after-stabbing-wife/",
+          "access-date": "2022-07-13",
+          "website": "Sudans Post",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Women activists demand dismissal of Minister Peter Mayen",
+          "url": "https://radiotamazuj.org/en/news/article/women-activists-demand-dismissal-of-minister-peter-mayen",
+          "access-date": "2022-07-13",
+          "website": "Radio Tamazuj",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "southsudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
